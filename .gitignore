@@ -1,0 +1,11 @@
+/.idea
+/_book
+
+.DS_Store
+*.db
+*.bak
+*.tmp
+*.cmd
+~*
+
+upload.py
