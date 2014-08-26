@@ -7,32 +7,30 @@
 
 ### 静态资源加载
 
-- 静态资源压缩、优化
-- 静态资源合并
-- CDN 部署
+- [ ] 静态资源压缩、优化
+- [ ] 静态资源合并
+- [ ] CDN 部署
 
 ### 浏览器静态资源缓存
 
-- localStorage缓存
-- 浏览器强缓存
+- [ ] localStorage缓存
+- [ ] 浏览器强缓存
 
 ### 模板
 
-- 前端模板渲染
-- 后端模板渲染
+- [ ] 前端模板渲染
+- [ ] 后端模板渲染
 
 ### 组件化
 
-- cmd
-- amd
-
-### 性能
+- [ ] cmd
+- [ ] amd
 
 ### 无线离线存储
 
-- minifest
-- IndexedDB
-- webdb
+- [ ] minifest
+- [ ] IndexedDB
+- [ ] webdb
 
 ## 应用篇
 
@@ -42,9 +40,9 @@
 
 ### 动画
 
-- setIntervel / setTimeout
-- css3 animation
-- frame animation
+- [ ] setIntervel / setTimeout
+- [ ] css3 animation
+- [ ] frame animation
 
 ### 字体
 
