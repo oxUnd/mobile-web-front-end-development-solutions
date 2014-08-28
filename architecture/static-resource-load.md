@@ -44,6 +44,14 @@ fis release -r <to-project-path> -o -d <to-output-path>
 
 合并资源即把多个文件合并成一个文件，并在也面使用这个合并后文件。一般都可以通过手动合并或者脚本合并，但这块主要说的是通过fis来做合并。
 
+### JS/CSS 合并
+-
+
+### 图片合并
+
+图片合并的原理是利用`background-position`，把一些小图合并如一张大图后，使用`background-position`来指定显示合并如大图中的小图；俗称`csssprite`。
+
+
 ## CDN
 一般都会上CDN，CDN详细请参见[百科](http://baike.baidu.com/link?url=bko8Ek_Gki3nN8L5XWFmDqzxAcrhWoC3n9AHC4XVoTa_u31jp35Xg9Ik7h4w7ioOAamucCrZfSHO0k1OI-zwIq)
 
