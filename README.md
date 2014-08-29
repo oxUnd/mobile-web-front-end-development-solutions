@@ -25,11 +25,12 @@
 《移动端前端解决方案》解决移动Web开发中遇到的工程、应用、安全问题，阐述使用FIS如何快速解决这些问题以及如何做是最优雅、最高效的。
 
 编搞人：
-    - @2betop
-    - @xiangshouding
-    - @wangcheng
-    - @zhangying
-    - 待定
+
+- @2betop
+- @xiangshouding
+- @wangcheng
+- @zhangying
+- 待定
 
 
 ----
