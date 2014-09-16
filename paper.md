@@ -237,7 +237,7 @@ FIS中已经集成了各种压缩工具，只需要在编译是添加编译选�
 fis release -r <to-project-path> -o -d <to-output-path>
 ```
 
-##### 合并
+##### 合并 √
 
 
 ### 性能优化
@@ -252,11 +252,11 @@ fis release -r <to-project-path> -o -d <to-output-path>
 
 #### manifest
 
-#### 基于localStorage的静态资源差异化更新
+#### 基于localStorage的静态资源差异化更新 √
 
 #### combo
 
-#### 自动打包
+#### 自动打包 √
 
 #### 页面加载控制的优化
 
