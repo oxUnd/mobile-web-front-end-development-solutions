@@ -263,8 +263,6 @@ fis release -r <to-project-path> -o -d <to-output-path>
 
 + manifest
 + 基于localStorage的静态资源差异化更新
-+ combo
-+ 自动打包
 + 页面加载控制的优化
 
 通过合并可以减少请求数，通过压缩可以减少请求的字节大小，这些都是通过减少请求资源来达到性能优化的目的。本节主要讨论如何通过缓存、页面加载控制、统计来做性能优化。
