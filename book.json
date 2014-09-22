@@ -2,7 +2,7 @@
     "plugins": ["autocover"],
     "pluginsConfig": {
         "autocover": {
-		    "title": "移动Web最佳实践",
+		    "title": "Mobile Web development best practices of FIS",
 		    "author": "fis team",
 		    "font": {
 		        "size": null,
