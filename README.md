@@ -9,5 +9,12 @@
 
 本方案将从`资源请求控制`、`缓存使用率`两个方面来提供一种最佳的实践方法。
 
+内容包括
+
+- 提高缓存利用率提供`基于localStorage的静态资源差异化更新方案`
+- 实现`WebApp`，提供[Quickling解决方案](https://github.com/xiangshouding/bigpipe.smarty)
+- 提供灵活的合并资源的方法（FIS资源合并），轻松配置进行合包；
+
+
 ---
 请关注我们 http://fis.baidu.com
