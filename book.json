@@ -1,22 +1,3 @@
 {
-    "plugins": ["autocover"],
-    "pluginsConfig": {
-        "autocover": {
-		    "title": "Mobile Web development best practices of FIS",
-		    "author": "fis team",
-		    "font": {
-		        "size": null,
-		        "family": "Impact",
-		        "color": "#FFF"
-		    },
-		    "size": {
-		        "w": 1800,
-		        "h": 2360
-		    },
-		    "background": {
-		        "color": "#09F"
-		    }
-
-        }
-    }
+	"plugins": [ "exercises", "quizzes" ]
 }
