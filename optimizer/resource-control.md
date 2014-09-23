@@ -59,7 +59,7 @@ fis.config.set('pack', {
 - 打包时考虑重点页面
 
 
-### WebApp
+### 异步请求模板组件
 
 > 其实SPA也可以用后端渲染模板的方式实现，那种技术叫`Quickling`。
 
