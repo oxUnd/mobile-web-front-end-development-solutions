@@ -15,4 +15,3 @@
 * [附录](optimizer/appendix.md)
    * [目录规范](optimizer/appendix.md#目录规范)
    * [组件化](optimizer/appendix.md#组件化)
-   * [test](test.adoc)
